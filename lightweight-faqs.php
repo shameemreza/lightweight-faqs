@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Lightweight FAQs
- * Plugin URI: ''
+ * Plugin URI: https://github.com/shameemreza/lightweight-faqs
  * Description: Extremely simple FAQs plugin to add stylish FAQs to pages without affecting page load time. Works with Classic Editor via shortcode and Elementor Widget.
  * Tags: accordion, faqs, elementor faqs, stylish faq, lightweight, easy faq, ultimate faq
  * Version: 0.0.1

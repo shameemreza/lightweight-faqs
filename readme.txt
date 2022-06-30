@@ -6,7 +6,7 @@ Requires at least: 5.0
 Tested up to: 6.0
 Requires PHP: 7.0
 Stable tag: 0.0.1
-License: GPLv3
+License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl.html
 
 Extremely simple FAQs plugin to add stylish FAQs to pages without affecting page load time. Works with Classic Editor via shortcode and Elementor Widget.
